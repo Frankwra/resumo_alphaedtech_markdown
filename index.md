@@ -4,7 +4,7 @@
 
 ### PROF : KENJI TANIGUCHI
 
-#### AULA 01 Conceitos fundamentais de redes de computadores
+#### AULA 01 - Conceitos fundamentais de redes de computadores
 * Diferença entre INTERNET e WEB
 * Principio de comunicação de rede.
 * Importância em topologia de rede.
