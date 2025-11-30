@@ -4,7 +4,7 @@
 
 ### PROF : KENJI TANIGUCHI
 
-#### AULA 1 Conceitos fundamentais de redes de computadores
+#### AULA 01 Conceitos fundamentais de redes de computadores
 * Diferença entre INTERNET e WEB
 * Principio de comunicação de rede.
 * Importância em topologia de rede.
@@ -136,7 +136,7 @@
 
 ### PROF : Flavia Caçapava Lorenzi
 
-#### AULA  03 - Comunicação Assertiva
+#### AULA  01 - Comunicação Assertiva
 * Plataformas de acesso.
 * Principais soft skills para o desenvolvedor.
 * Programa jovem aprendiz.
@@ -162,7 +162,7 @@
 	- escuta ativa e o saber ouvir.
 	- criatividade e a inovação.
 
-#### Aula 3 - Feedback
+#### Aula 03 - Feedback
 * Alinhamento de encontros e atividades.
     - Objetivos dos encontros.
     - Expectativas da turma.
